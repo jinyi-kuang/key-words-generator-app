@@ -18,7 +18,7 @@ def keyword_extraction(doc, n):
     return df
 
 st.set_page_config(
-    page_title = "Recommand keywords for your next publication",
+    page_title = "Recommend keywords for your next publication",
     page_icon="🔑"
 )
 
