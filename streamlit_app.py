@@ -22,7 +22,7 @@ st.set_page_config(
     page_icon="🔑"
 )
 
-st.title("🔑 Recommand keywords for your next publication")
+st.title("🔑 Recommend keywords for your next publication")
 st.header("")
 st.write("""
 - This web app will generate keywords for your manuscript based on the abstract. 
